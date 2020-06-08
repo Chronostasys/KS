@@ -1,0 +1,16 @@
+﻿<div class="alert alert-secondary mt-4" role="alert">
+    <span class="oi oi-pencil mr-2" aria-hidden="true"></span>
+    <strong>@Title</strong>
+
+    <span class="text-nowrap">
+        请访问
+        <a target="_blank" class="font-weight-bold" href="https://www.limfx.pro">LimFx</a>
+    </span>
+    ，一个面向科研工作者的专业博客网站。
+</div>
+
+@code {
+    // Demonstrates how a parent component can supply parameters
+    [Parameter]
+    public string Title { get; set; }
+}

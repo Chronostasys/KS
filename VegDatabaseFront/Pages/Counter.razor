@@ -1,0 +1,21 @@
+﻿@page "/about"
+    <div class="container">
+        <h1>关于本系统</h1>
+
+        <p>
+            本系统的核心运算使用PInvoke技术调用我使用c语言封装的dll来进行。
+        </p>
+        <p>
+            此前端系统使用微软的最新SPA技术Blazor打造，具有互动性强的特点，前端后端的逻辑都是c#语言实现的。css库使用
+            推特的bootstrap，标志使用open iconic开源库。
+        </p>
+    </div>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}

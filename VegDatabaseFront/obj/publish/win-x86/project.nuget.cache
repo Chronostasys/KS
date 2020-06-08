@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sztEAMUd9WsMrTYBBq1RFjTLQ/VVA9NCakXN+pHAxPnxXRbgV/DGsVk5m7cOjGOeqKDk+fxFXKOSuekWlYMHyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\17697\\source\\repos\\VegDatabaseFront\\VegDatabaseFront.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17697\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\17697\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\17697\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.2\\microsoft.netcore.app.runtime.win-x86.3.1.2.nupkg.sha512",
+    "C:\\Users\\17697\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.2\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.2.nupkg.sha512",
+    "C:\\Users\\17697\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.2\\microsoft.aspnetcore.app.runtime.win-x86.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
